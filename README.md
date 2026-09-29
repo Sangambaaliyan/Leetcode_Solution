@@ -15,5 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0015-3sum) |
+| [0242-valid-anagram](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
