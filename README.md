@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
