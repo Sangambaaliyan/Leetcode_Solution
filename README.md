@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0015-3sum) |
+| [0876-middle-of-the-linked-list](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
 ## Prefix Sum
 |  |
 | ------- |
