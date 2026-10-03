@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0061-rotate-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0876-middle-of-the-linked-list) |
