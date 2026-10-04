@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
 ## Design
 |  |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0232-implement-queue-using-stacks) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
