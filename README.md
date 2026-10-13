@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
+| [1732-find-the-highest-altitude](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
+| [1732-find-the-highest-altitude](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1732-find-the-highest-altitude) |
 ## Math
 |  |
 | ------- |
