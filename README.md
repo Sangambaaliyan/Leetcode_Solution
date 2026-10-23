@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
 | [0844-backspace-string-compare](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
