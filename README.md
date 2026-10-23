@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0015-3sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -154,4 +156,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0513-find-bottom-left-tree-value](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0513-find-bottom-left-tree-value) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0637-average-of-levels-in-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
