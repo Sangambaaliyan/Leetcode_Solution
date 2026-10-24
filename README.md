@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0242-valid-anagram) |
 | [0844-backspace-string-compare](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0844-backspace-string-compare) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0050-powx-n) |
 ## Recursion
 |  |
