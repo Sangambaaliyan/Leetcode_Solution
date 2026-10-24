@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0242-valid-anagram) |
+| [0409-longest-palindrome](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0020-valid-parentheses) |
 | [0242-valid-anagram](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0242-valid-anagram) |
+| [0409-longest-palindrome](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Linked List
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
