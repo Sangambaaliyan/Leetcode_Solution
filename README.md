@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1207-unique-number-of-occurrences](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1436-destination-city) |
 | [1732-find-the-highest-altitude](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1732-find-the-highest-altitude) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1207-unique-number-of-occurrences) |
+| [1436-destination-city](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1436-destination-city) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0409-longest-palindrome) |
 | [0844-backspace-string-compare](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1436-destination-city](https://github.com/Sangambaaliyan/Leetcode_Solution/tree/master/1436-destination-city) |
 ## Linked List
 |  |
 | ------- |
